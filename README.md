@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ian Concannon</h1>
-<h3 align="center">I'm currently a student at the University of Michigan studying computer science through the College of Engineering and minoring in physics and philosophy.</h3>
+<h1 align="left">Hi 👋, I'm Ian Concannon</h1>
+<h3 align="left">I'm currently a student at the University of Michigan studying computer science through the College of Engineering and minoring in physics and philosophy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iansconcannon&label=Profile%20views&color=0e75b6&style=flat" alt="iansconcannon" /> </p>
 
